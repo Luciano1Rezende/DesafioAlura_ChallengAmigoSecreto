@@ -4,7 +4,7 @@ Este é um pequeno projeto web para organizar um sorteio de "Amigo Secreto" de f
 
 ## Motivação e Aprendizado 
 
-Desafio proposto pelo projeto da Oracle com a Alura Oracle **Next Education**
+Desafio proposto pelo projeto da Oracle com a Alura **Oracle Next Education**
 
 Este projeto foi desenvolvido com o objetivo principal de consolidar conhecimentos básicos e intermediários de **JavaScript**. Ao longo do seu desenvolvimento, pude praticar e aprofundar minha compreensão em conceitos fundamentais como:
 
