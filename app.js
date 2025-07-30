@@ -7,6 +7,7 @@ function adicionarNomeAmigo() {
   } else {
     amigos.push(nomeAmigo);
     document.getElementById('amigo').value = '';
+    atualizarListaAmigos();
   }
 }
 
@@ -18,4 +19,14 @@ function sotearAmigo() {
 
   let indiceAleatorio = Math.floor(Math.random() * amigos.length);
   document.getElementById('resultado').innerHTML = amigoSorteado;
+}
+
+function atualizarListaAmigos() {
+  let listaHTML = document.getElementById('ListaAmigos');
+  listaHTML.innerHTML = '';
+  for (let nome of amigos) {
+    let itemLista = document.createElement('Li');
+    itemLista.textContent = nome;
+    listaHTML.appendChild(itemLista);
+  }
 }
