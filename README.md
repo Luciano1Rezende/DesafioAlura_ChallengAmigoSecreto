@@ -59,7 +59,9 @@ Este projeto foi desenvolvido como um exercício. Contribuições são bem-vinda
 
 ##  Desenvolvedor
 
-* **Luciano Peres de Rezende** 
+* **Luciano Peres de Rezende**
+
+https://desafio-alura-challeng-amigo-secreto-8o4ioq9ww.vercel.app/
 
 https://github.com/Luciano1Rezende 
 
