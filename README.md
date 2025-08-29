@@ -8,7 +8,6 @@ Desafio proposto pelo projeto da Oracle com a Alura **Oracle Next Education**
 
 Este projeto foi desenvolvido com o objetivo principal de consolidar conhecimentos básicos e intermediários de **JavaScript**. Ao longo do seu desenvolvimento, pude praticar e aprofundar minha compreensão em conceitos fundamentais como:
 
-* **Manipulação do DOM (Document Object Model):** Aprender a acessar, criar e modificar elementos HTML diretamente via JavaScript (`document.getElementById`, `document.createElement`, `innerHTML`, `appendChild`).
 * **Estruturas de Dados:** Utilização e manipulação de arrays (`amigos.push`, `amigos.length`).
 * **Lógica Condicional:** Implementação de validações e controle de fluxo com `if/else`.
 * **Laços de Repetição:** Percorrer arrays para exibir informações dinamicamente (`for...of`).
