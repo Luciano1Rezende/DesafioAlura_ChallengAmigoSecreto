@@ -33,8 +33,8 @@ Para usar este projeto, siga os passos abaixo:
 
 1.  **Clone o Repositório** (se estiver hospedado em um Git, como GitHub):
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd nome-do-seu-projeto # Ex: cd amigo-secreto
+    git clone <git@github.com:Luciano1Rezende/DesafioAlura_ChallengAmigoSecreto.git>
+    cd DesafioAlura_ChallengAmigoSecreto
     ```
     *Se você não está usando Git, simplesmente baixe os arquivos (index.html, app.js, style.css, pasta assets) para uma pasta no seu computador.*
 
